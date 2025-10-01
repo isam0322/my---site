@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://my-site-apw8x9rwb-isams-projects-639cd0d1.vercel.app/sitemap.xml
